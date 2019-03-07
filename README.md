@@ -18,5 +18,8 @@ With [DS-Scene Rom Tool](https://gbatemp.net/threads/repack-ds-scene-rom-tool-v1
 # Testing
 I find [Twilight Menu++ for the 3DS](https://github.com/RocketRobz/TWiLightMenu) the best sandbox for tests since it doesn't autopatch. Instructions on how to use on their github linked before.
 
+# Non-Windows users
+You can use [NDS ROM Patcher](https://github.com/al3xtjames/nds-rom-patcher). Instructions are there, and you'll need Python3 to make it work.
+
 # Disclaimer
 I did not make OpenPatch. I'm not a programmer. Huge credits to its author(s) I'm just adding it on releases to make it easier for users to find it.
