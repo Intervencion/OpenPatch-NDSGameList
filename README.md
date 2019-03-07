@@ -3,7 +3,7 @@
 I made this repo because the most updated GameList for nds AP-Patches was dated, very dated. Not all games have patches working and some would need an updated patch. Most patches are only made to patch a certain dump, and given how I saw at least 3 different groups releasing clean nds roms....  I'll focus most of the time on patching [No-Intro](http://www.no-intro.org/) roms. Usually the patch was done for the first clean rom dumped.
 
 # Usage
-Drag the nds rom to [OpenPatch.exe](https://github.com/Intervencion/OpenPatch-NDSGameList/releases). [GameList.txt](https://github.com/Intervencion/OpenPatch-NDSGameList/blob/master/GameList.txt) must be on the same folder than the binaries. If a patch is found, it will patch it and ask whether you want to backup your rom or not. Left button is Yes, right button is No. If it displays error starting with TEXT, your game wasn't found on the txt.
+Drag the nds rom to [OpenPatch.exe](http://www.ds-scene.net/?s=download&s1=D&s2=16D&viewfile=5c2149ca0993d84c443cf6169f70f42f). [GameList.txt](https://github.com/Intervencion/OpenPatch-NDSGameList/blob/master/GameList.txt) must be on the same folder than the binaries. If a patch is found, it will patch it and ask whether you want to backup your rom or not. Left button is Yes, right button is No. If it displays error starting with TEXT, your game wasn't found on the txt.
 
 If you wish to add a game to the GameList, be sure to check its other versions (USA/EUR/JPN/German/Italian/etc) to see if they have a patch. If so, you can compare with [HxD](https://mh-nexus.de/en/hxd/) the hexadecimals in the marked offsets and see if they're the same (most likely they will not).
 
