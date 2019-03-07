@@ -15,5 +15,8 @@ Some games have XDelta patches. Those are esentially the same, just using a diff
 
 With [DS-Scene Rom Tool](https://gbatemp.net/threads/repack-ds-scene-rom-tool-v1-0-build-1215-includes-cmp-and-ap-database.477193/) you can AP-Patch games, listed on an AP Database. Always try this first because it's actually more User friendly.
 
+# Testing
+I find [Twilight Menu++ for the 3DS](https://github.com/RocketRobz/TWiLightMenu) the best sandbox for tests since it doesn't autopatch. Instructions on how to use on their github linked before.
+
 # Disclaimer
 I did not make OpenPatch. I'm not a programmer. Huge credits to its author(s) I'm just adding it on releases to make it easier for users to find it.
