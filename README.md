@@ -14,3 +14,6 @@ If all of this seems too complicated to you, feel free to add an issue with the 
 Some games have XDelta patches. Those are esentially the same, just using a different software. Make sure to backup the source rom and compare the hexadecimals between pre and post XDelta patch. You'll be able to see there the patch and be able to transcribe it to the txt file.
 
 With [DS-Scene Rom Tool](https://gbatemp.net/threads/repack-ds-scene-rom-tool-v1-0-build-1215-includes-cmp-and-ap-database.477193/) you can AP-Patch games, listed on an AP Database. Always try this first because it's actually more User friendly.
+
+# Disclaimer
+I did not make OpenPatch. I'm not a programmer. Huge credits to its author(s) I'm just adding it on releases to make it easier for users to find it.
