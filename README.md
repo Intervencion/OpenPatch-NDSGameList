@@ -3,7 +3,7 @@
 I made this repo because the most updated GameList for nds AP-Patches was dated, very dated. Not all games have patches working and some would need an updated patch.
 
 # Usage
-Drag the nds rom to OpenPatch.exe. GameList.txt must be on the same folder than the binaries. If a patch is found, will ask whether you want to patch the game or not. Left button is Yes, right button is No. If it displays error starting with TEXT, your game wasn't found on the txt.
+Drag the nds rom to [OpenPatch.exe](https://github.com/Intervencion/OpenPatch-NDSGameList/releases). [GameList.txt](https://github.com/Intervencion/OpenPatch-NDSGameList/blob/master/GameList.txt) must be on the same folder than the binaries. If a patch is found, will ask whether you want to patch the game or not. Left button is Yes, right button is No. If it displays error starting with TEXT, your game wasn't found on the txt.
 
 If you wish to add a game to the GameList, be sure to check its other versions (USA/EUR/JPN/German/Italian/etc) to see if they have a patch. If so, you can compare with [HxD](https://mh-nexus.de/en/hxd/) the hexadecimals in the marked offsets and see if they're the same (most likely they will not).
 
