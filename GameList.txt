@@ -55,77 +55,78 @@
 3872 - Tago Akira no Atama no Taisou Dai-2-Shuu - Ginga Oudan Nazotoki Adventure [b] [357E72DF] 2CH
 000715DA: 0C → 37
 
-3873 - Tomodachi Collection [CD81A220]
+3873 - Tomodachi Collection [b] [CD81A220] Independent
 0006EACD: 0C FD → D0 9A
 
-3874 - Tago Akira no Atama no Taisou Dai-1-Shuu: Nazotoki Sekai Isshuu Ryokou [885E9D09]
+3874 - Tago Akira no Atama no Taisou Dai-1-Shuu - Nazotoki Sekai Isshuu Ryokou [b] [885E9D09] Independent
 00071FD9: 0C → 37
 
-3966 - Dragon Quest IX: Hoshizora no Mamoribito [E86470EF]
+3966 - Dragon Quest IX - Hoshizora no Mamoribito [E8E285F2] NoGroup
 001A7FDA: 0C → 37
 
 3966 - Dragon Quest IX: Hoshizora no Mamoribito []
 001A81D8: 50 9A → 90 95
 
-4013 - Okaeri! Chibi-Robo! Happy Richie Oosouji [125781A3]
+4013 - Okaeri! Chibi-Robo! Happy Rich Oosouji [b] [125781A3] High Road
 000F3BD5: 0C → 37
 
-4036 - Puyo Puyo 7 [9D25B477]
+4036 - Puyo Puyo 7 [b] [9D25B477] BAHAMUT
 000C2E4D: 0C → 37
 000CFDA4: 0C → 37
 000DFF18: 0C → 37
 000EE006: 0C → 37
 00111F0C: 0C → 37
 
-4085 - Blood of BAHAMUT [F3A9C1CD]
+4085 - Blood of Bahamut [b] [F3A9C1CD] BAHAMUT
 0009DD6C: 70 76 → A8 71
 
-4089 - Irozuki Tingle no Koi no Balloon Trip [5CF26E2F]
+4089 - Irodzuki Tingle no Koi no Balloon Trip [b] [5CF26E2F] Independent
 0069280F: 0C → 37
 
-4090 - Tsukibito [4E69EA6F]
+4090 - Tsukibito [b] [4E69EA6F] Independent
 0002060B: 00 → 04
 000453F2: 7A → 7B
 
-4095 - Sonic Chronicles: Yamijigen Kara no Shinryakusya [ED79610F]
+4095 - Sonic Chronicles - Yami Jigen Kara no Shinryakusha [b] [ED79610F] Caravan
 04640BE3: 0C → 37
 047CAF3F: 0C → 37
 05E9DE65: 0C → 37
 063BD7E5: 0C → 37
 06563A41: 0C → 37
 
-4100 - Shugo Chara! Norinori! Chara-Nari Zumu [3DE338C6]
+4100 - Shugo Chara! - Nori Nori! CharanaRhythm [b] [3DE338C6] Independent
 0008FA17: 81 → 82
 0008FA2B: 81 → 82
 
-4133 - Nanashi no Game Me [930C4A47]
+4133 - Nanashi no Game Me [b] [930C4A47] Independent
 0007C386: 0C → 36
 0007C4DE: 7A → 7B
 
-4134 - SupaRobo Gakuen [4741681A]
+4134 - SupaRobo Gakuen [b] [4741681A] Independent
 0001E5E2: F8 → F9
 
-4148 - Nihon Keizai Shinbunsha Kanshuu: Shiranai Mamade wa Son o Suru Mono ya Okane no Shikumi DS [5CE35318]
+4148 - Nihon Keizai Shinbunsha Kanshuu - Mono ya Okane no Shikumi DS [b] [5CE35318] BAHAMUT
 00074627: 8E → 8F
 
-4151 - Sloane to MacHale no Nazo no Story 2 [41C9A150]
+4151 - Sloane to MacHale no Nazo no Story 2 [b] [41C9A150] NRP
 00074387: 0C → 36
 000744DF: 7A → 7B
 
-4168 - Pokemon: Heart Gold [70FC75C3]
+4168 - Pokemon - HeartGold [b] [70FC75C3] XenoPhobia
+
 000DEC1D: D1 → E0
 002F5F86: 0C → 36
 002F60DE: 7A → 7B
 
-4169 - Pokemon: Soul Silver [1B822FC7]
+4169 - Pokemon - SoulSilver [b] [1B822FC7] XenoPhobia
 000DEC1D: D1 → E0
 002F5F86: 0C → 36
 002F60DE: 7A → 7B
 
-4186 - SaGa 2: Hihou Densetsu - Goddess of Destiny [36CC2F14]
+4186 - SaGa 2 - Hihou Densetsu - Goddess of Destiny [b] [36CC2F14] PLAYiT
 001BD794: 0C → 37
 
-4187 - THE iDOLM@STER: Dearly Stars [CCEFA290]
+4187 - Idolmaster - Dearly Stars, The (DSi Enhanced) [b] [CCEFA290] PLAYiT
 00318E9A: 0C → 36
 00318FF2: 7A → 7B
 

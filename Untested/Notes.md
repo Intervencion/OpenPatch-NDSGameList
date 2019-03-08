@@ -27,3 +27,13 @@ Unchanged however because the offsets-hexdecimals doesn't match with patch.
 Will merge it to a single line in Untested list. ~~I'm also changing its CRC to the proper one (From [Caravan [E86470EF]](http://www.advanscene.com/html/Releases/dbrelds.php?id=4061) to [NoGroup [E8E285F2]](http://www.advanscene.com/html/Releases/dbdswrel.php?id=4061))~~
 
 I'm not going to change CRC on Bad dumps unless I can't find info about the dump.
+
+***
+
+4187 - Idolmaster - Dearly Stars, The (DSi Enhanced) [b] [CCEFA290] PLAYiT
+
+4187 - Idolmaster - Dearly Stars, The (DSi Enhanced) [CF9CF0E7] PUSSYCAT
+
+Patch won't work on either. Offset/Hex doesn't match the patch.
+
+Rudolph's patch from the AP database should work with both however. Listed on Untested's GameList.

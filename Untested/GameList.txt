@@ -72,8 +72,10 @@ Pokemon - Black Version (USA, Europe) (NDSi Enhanced) [No-Intro] [4F6E5580]
 000046B0: 58 00 27 4B 63 98 C0 96 73 4E EE E4 → 6A E0 AA 36 E0 09 18 02 1F FF AA 28
 00004EA4: 1E FF 2F E1 → ED FD FF EA
 
-
-
 3966 - Dragon Quest IX: Hoshizora no Mamoribito [E8E285F2]
 001A7FDA: 0C → 37
 001A81D8: 50 9A → 90 95
+
+4187 - Idolmaster - Dearly Stars, The (DSi Enhanced) [CF9CF0E7] PUSSYCAT
+00089F85: 0C → 37
+0008A0DD: 7A → 7B
