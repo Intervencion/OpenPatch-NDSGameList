@@ -19,3 +19,11 @@ So I changed it to the Proper one.
 I can't find info about this specific CRC for this rom. Caravan's is [Yes_Precure_5_Go_Go_JPN_NDS-Caravan [3ED94590]](http://www.advanscene.com/html/Releases/dbrelds.php?id=2919).
 
 Unchanged however because the offsets-hexdecimals doesn't match with patch.
+
+***
+
+3966 - Dragon Quest IX: Hoshizora no Mamoribito [E86470EF] 001A7FDA: 0C → 37 & 3966 - Dragon Quest IX: Hoshizora no Mamoribito [] 001A81D8: 50 9A → 90 95
+
+Will merge it to a single line in Untested list. ~~I'm also changing its CRC to the proper one (From [Caravan [E86470EF]](http://www.advanscene.com/html/Releases/dbrelds.php?id=4061) to [NoGroup [E8E285F2]](http://www.advanscene.com/html/Releases/dbdswrel.php?id=4061))~~
+
+I'm not going to change CRC on Bad dumps unless I can't find info about the dump.
