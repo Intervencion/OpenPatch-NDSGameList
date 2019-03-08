@@ -13,3 +13,9 @@ I can't find info about this dump. All I find is either [Made_in_Ore_JPN_NDS-Car
 So I changed it to the Proper one.
 
 ***
+
+2849 - Yes! PreCure 5 Go Go! - Zenin Shu-Go! Dream Festival [BA5BF891]
+
+I can't find info about this specific CRC for this rom. Caravan's is [Yes_Precure_5_Go_Go_JPN_NDS-Caravan [3ED94590]](http://www.advanscene.com/html/Releases/dbrelds.php?id=2919).
+
+Unchanged however because the offsets-hexdecimals doesn't match with patch.
