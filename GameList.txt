@@ -1,58 +1,58 @@
-﻿2472 - Dragon Quest V - Hand of the Heavenly Bride [E4A5D796]
+﻿2472 - Dragon Quest V - Tenkuu no Hanayome [b] [E4A5D796] Dominent
 00062E78: E7 28 → CC 00
 
-2838 - Cid to Chocobo no Fushigi na Dungeon: Toki Wasure no Meikyuu DS+ [B27B78E9]
+2838 - Cid to Chocobo no Fushigi na Dungeon - Tokiwasure no Meikyuu DS+ [b] [B27B78E9] Caravan
 0004133C: 30 FF 2F E1 → 00 00 A0 E3
 
-2849 - Yes! Precure 5 Go Go Zenin Shu Go! Dream Festival [BA5BF891]
+2849 - Yes! PreCure 5 Go Go! - Zenin Shu-Go! Dream Festival [BA5BF891] ???
 000047E8: 88 E9 FF EE 3F CD 9D 48 B9 50 18 6D C1 F7 B1 6B → 70 40 9F E5 08 50 9F E5 00 40 85 E5 F0 00 BD E8
 000047F8: 4F 30 2F 2D B4 E8 00 00 → 1E FF 2F E1 C8 E7 04 02
 000049F4: F0 00 BD E8 → 7B FF FF EA
 
-3049 - Layton Kyouju to Saigo no Jikan Ryokou [954C7551]
+3049 - Layton Kyouju to Saigo no Jikan Ryokou [b] [954C7551] Caravan
 000047E0: 81 E1 12 9A 41 E3 0F 44 40 36 EC 82 1A 49 14 94 → 10 00 9F E5 10 C0 9F E5 00 C0 80 E5 44 C0 80 E5
 000047F0: 05 2C C4 B2 F0 AA 20 C5 79 D4 15 0F EE 52 00 00 → 05 00 A0 E1 5B 01 00 EA AC 8F 0F 02 EC 30 0F 02
 00004D64: 05 00 A0 E1 → 9D FE FF EA
 
-3151 - Chocobo to Mahou no Ehon: Majo to Shoujo to 5-Nin no Yuusha [661847ED]
+3151 - Chocobo to Mahou no Ehon - Majo to Shoujo to 5-Nin no Yuusha [b] [661847ED] BAHAMUT
 00004010: D4 6D A1 6D 44 7D 1A 61 C1 43 CD 01 CC 78 3D 05 → 38 40 BD E8 FF 5F 2D E9 01 70 8F E2 17 FF 2F E1
 00004020: CF 4E 0F 75 2A 43 0E F2 B9 7D 8A 88 68 2E 84 15 → 00 27 00 25 06 48 07 49 03 68 8B 42 02 D1 04 48
 00004030: 65 83 40 AA 17 23 FC 00 5A 3F A7 02 BE B9 7A F8 → 05 49 39 50 7B 46 18 47 FF 5F BD E8 1E FF 2F E1
 00004040: 1B D5 DD 0D 69 A7 38 AC F7 BE E8 1B → BC 5E 01 02 0B 00 A0 E1 00 00 A0 E3
 001C0294: 38 40 BD E8 1E FF 2F E1 → 04 F0 1F E5 10 00 00 02
 
-3191 - Phantasy Star Zero [0C073D71]
+3191 - Phantasy Star 0 [b] [0C073D71] XenoPhobia
 00092A78: 0B → 34
 
-3332 - Final Fantasy Crystal Chronicles: Echoes of Time [185F6EA7]
+3332 - Final Fantasy Crystal Chronicles - Echoes of Time [b] [185F6EA7] Caravan
 0009E4E0: 0B → 34
 
-3369 - Mario & Luigi RPG3!!! [5DAA1386]
+3369 - Mario & Luigi RPG 3!!! [b] [5DAA1386] XenoPhobia
 00004DB0: 07 40 2D E9 → 1E FF 2F E1
 0002F8B2: 0B → 34
 00061010: 07 40 2D E9 → 1E FF 2F E1
 
-3607 - Pro Yakyuu Famista DS 2009 [0981E79C]
+3607 - Pro Yakyuu Famista DS 2009 [b] [0981E79C] Caravan
 00004A18: 1E FF 2F E1 → 68 00 00 EA
 00004BC0: 5B 53 44 4B 2B 4E 49 4E 54 45 4E 44 4F 3A 42 41 → 08 00 9F E5 37 10 A0 E3 00 10 C0 E5 1E FF 2F E1
 00004BD0: 43 4B 55 50 → 0C E9 17 02
 
-3690 - Made in Ore [075A68D1]
+3690 - Made in Ore [075A68D1] PRESCENE
 00007183: 3A → EA
 
-3782 - Sloane to MacHale no Nazo no Story [645123CD]
+3782 - Sloane to MacHale no Nazo no Story [b] [645123CD] 1 Up
 000811F9: 0C → 37
 
-3790 - Pro Yakyuu Team o Tsukurou! 2 [FBC64DB7]
+3790 - Pro Yakyuu Team o Tsukurou! 2 [FBC64DB7] Caravan
 000A3AFC: 0C → 37
 
-3791 - Yuuzai x Muzai [B913681B]
+3791 - Saibanin Suiri Game - Yuuzai x Muzai [b] [B913681B] Caravan
 0002464F: 24 1C → 38 29
 
-3819 - Kingdom Hearts 358/2 Days [7EBAB715]
+3819 - Kingdom Hearts - 358-2 Days [b] [7EBAB715] NRP
 00108FF9: 0C → 37
 
-3872 - Tago Akira no Atama no Taisou Dai-2-Shuu: Ginga Oudan Nazotoki Adventure [357E72DF]
+3872 - Tago Akira no Atama no Taisou Dai-2-Shuu - Ginga Oudan Nazotoki Adventure [b] [357E72DF] 2CH
 000715DA: 0C → 37
 
 3873 - Tomodachi Collection [CD81A220]
