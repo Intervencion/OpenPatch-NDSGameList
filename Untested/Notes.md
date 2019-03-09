@@ -44,3 +44,26 @@ Rudolph's patch from the AP database should work with both however. Listed on Un
 
 I don't find any info about this dump. Only [4707 - Quiz Magic Academy DS ~Futatsu no Jikuseki~ [BAHAMUT] [46F79BC0]](http://www.advanscene.com/html/Releases/dbrelds.php?id=4821)
 
+***
+
+4738 - Estpolis [5E9060DF] 
+
+&
+
+4738 - Estpolis [7C96445E]
+
+I can't find those dumps either. Only [BAHAMUT [C8A85A8B]](http://www.advanscene.com/html/Releases/dbrelds.php?id=4853)
+
+***
+
+4768 - Pokemon Ranger: Hikari no Kiseki [50CF5CF7]
+
+Can't find info about this dump. Only [BAHAMUT [F4DCA07C]](http://www.advanscene.com/html/Releases/dbrelds.php?id=4883)
+
+***
+
+4851 - Sekaiju no Meikyuu III: Seikai no Raihousha [F839726B]
+
+Can't find info about this dump. Only [BAHAMUT [7673037D]](http://www.advanscene.com/html/Releases/dbrelds.php?id=4965)
+
+***
