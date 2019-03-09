@@ -130,197 +130,197 @@
 00318E9A: 0C → 36
 00318FF2: 7A → 7B
 
-4192 - Kindaichi Shounen no Jikenbo: Akuma no Satsujin Koukai [12B6B7C3]
+4192 - Kindaichi Shonen no Jikenbo - Akuma no Satsujin Koukai [b] [12B6B7C3] BAHAMUT
 00045986: 7A → 7B
 00045F09: B4 → 00
 00045F0A: C9 → D5
 
-4207 - Okami to Koushinryou: Umi wo Wataru Kaze [CC9640AB]
+4207 - Ookami to Koushinryou - Umi o Wataru Kaze [b] [CC9640AB] Tashiro
 0010C4E8: 2D → 00
 002F9CF2: 00 → 17
 0007D232: 0C → 36
 0007D38B: 7A → 7B
 
-4249 - Inazuma Eleven 2: Kyoui no Shinryokusha - Fire [081A6719]
+4249 - Inazuma Eleven 2 - Kyoui no Shinryakusha - Fire [b] [081A6719] BAHAMUT
 001A0B9A: 0C → 36
 001A0CF5: 10 → 11
 
-4250 - Inazuma Eleven 2: Kyoui no Shinryokusha - Blizzard [4DEF841C]
+4250 - Inazuma Eleven 2 - Kyoui no Shinryakusha - Blizzard [b] [4DEF841C] BAHAMUT
 001A0B9A: 0C → 36
 001A0CF5: 10 → 11
 
-4259 - Blue Dragon: Ikai no Kyoujuu [112827AD]
+4259 - Blue Dragon - Ikai no Kyojuu [b] [112827AD] BAHAMUT
 00149988: 0C → 36
 00149AE0: 7A → 7B
 
-4264 - Shin Megami Tensei: Strange Journey [D7A14E5E]
+4264 - Shin Megami Tensei - Strange Journey [b] [D7A14E5E] 2CH
 000C6310: F0 → 30
 000C6311: 7B → 77
 
-4270 - Tago Akira no Atama no Taisou Dai-3-Shuu: Fushigi no Kuni no Nazotoki Otogibanashi [D2938C36]
+4270 - Tago Akira no Atama no Taisou - Dai-3-shuu - Fushigi no Kuni no Nazotoki Otogibanashi [b] [D2938C36] BAHAMUT
 00079F9A: 0C → 36
 0007A0F5: 10 → 11
 
-4271 - Tago Akira no Atama no Taisou Dai-4-Shuu: Time Machine no Nazotoki Daibouken [5FC50321]
+4271 - Tago Akira no Atama no Taisou - Dai-4-shuu - Time Machine no Nazotoki Daibouken [b] [5FC50321] BAHAMUT
 00079999: 0C → 36
 00079AF4: 10 → 11
 
-4272 - Iron Master: The Legendary Blacksmith [91A21E15]
+4272 - Iron Master - The Legendary Blacksmith [b] [91A21E15]
 000FA189: 0C → 36
 000FA2E1: 7A → 7B
 
-4301 - Kimi ni Todoke: Sodateru Omoi [00E08EA4]
+4301 - Kimi ni Todoke - Sodateru Omoi [b] [00E08EA4] Caravan
 0004B3E2: 0C → 36
 0004B5FA: 1F → 1E
 
-4328 - Element Hunter [7AA24454]
+4328 - Element Hunters [b] [7AA24454] 2CH
 000EE385: 0C → 36
 000EE4DD: 7A → 7B
 
-4354 - Umihara Kawase Shun: Second Edition - Kanzenban [B07AB77B]
+4354 - Umihara Kawase Shun - Second Edition Kanzenban [b] [B07AB77B] PLAYiT
 00051599: 0C → 36
 000516F4: 10 → 11
 
-4353 - Hikari no 4 Senshi: Final Fantasy Gaiden [2E60B4FC]
+4353 - Hikari no 4 Senshi: Final Fantasy Gaiden [b] [2E60B4FC] 2CH
 00077598: 0C → 36
 000776F3: 10 → 11
 
-4355 - Fresh PreCure! Asobi Collection [4855A901]
+4355 - Fresh Pretty Cure! - Asobi Collection [b] [4855A901] PLAYiT
 0008F19A: 0C → 36
 0008F2F5: 10 → 11
 0008F5AE: 7A → 7B
 
-4356 - Grand Theft Auto: Chinatown Wars [7D691F59]
+4356 - Grand Theft Auto - Chinatown Wars [b] [7D691F59] BAHAMUT
 049435C0: 00 00 00 00 00 00 00 00 00 00 00 00 → 83 6F 83 4A 82 CD 92 FA 82 DF 82 EB 45 50
 
-4370 - Summon Night X: Tears Crown [655BA68F]
+4370 - Summon Night X - Tears Crown [b] [655BA68F] NRP
 000E11DF: 0C → 37
 
-4392 - Layton Kyouju to Akuma no Hako - Friendly Version [DC61221F]
+4392 - Layton Kyouju to Akuma no Hako - Friendly Ban [DC61221F] BAHAMUT
 000D0960: 0C → 37
 
-4432 - Rockman EXE: Operate Shooting Star [59F38C1F]
+4432 - Rockman EXE - Operate Shooting Star [b] [59F38C1F] BAHAMUT
 00465199: 0C → 36
 004652F4: 10 → 11
 
-4434 - Tamagotchi no Narikiri Channel [B1624688]
+4434 - Tamagotchi no Narikiri Channel [b] [B1624688] Caravan
 0020D8EC: 10 → 11
 
-4467 - Mario & Sonic at Vancouver Olympics [FD7FC197]
+4467 - Mario & Sonic at Vancouver Olympic [b] [FD7FC197] BAHAMUT
 002B1FDD: 0C → 37
 000AB5A3: D1 → E0
 
-4469 - Wizardry ~Inochi no Kusabi~ [7FA6AF78]
+4469 - Wizardry - Inochi no Kusabi [b] [7FA6AF78] High Road
 0084599: 0C → 36
 00846F4: 10 → 11
 
-4499 - Cooking Mama 3 [8701BC8D]
+4499 - Cooking Mama 3 [b] [8701BC8D] Caravan
 00067B99: 0C → 37
 00067CF4: 10 → 11
 
-4500 - Ochaken no Heya DS 4: Ochaken Land de Hotto Shiyo? [6C502CAD]
+4500 - Ochaken no Heya DS 4 - Ochaken Land de Hotto Shiyo [6C502CAD] Caravan
 0009FB9D: 0C → 36
 0009FCF8: 10 → 11
 
-4510 - Kaijuu Busters [66EED7C4]
+4510 - Kaijuu Busters [b] [66EED7C4] Caravan
 00004200: 34 42 F7 A3 0F C4 98 B0 E2 12 DF A4 B5 0A BB A9 → 1C 00 9F E5 00 10 90 E5 18 20 9F E5 02 00 51 E1
 00004210: 92 E8 E3 06 08 D5 73 C6 7C B4 21 B0 27 AA BF 20 → 72 10 A0 03 08 10 C0 05 8E 10 A0 03 C4 10 C0 05
 00004220: 0C 63 3E 6E 63 9C 7E 3B 4F 6A E1 04 → 1E FF 2F E1 40 93 18 02 34 5D 09 E0
 00004A18: 1E FF 2F E1 → F8 FD FF EA
 
-4513 - Cross Treasures [35DF6D3D]
+4513 - Cross Treasures [b] [35DF6D3D] 2CH
 000C0F88: 0C → 36
 000C1114: 10 → 11
 
-4514 - Relaxuma * Rhythm: Mattari Kibun de Da Run Run Run [02990441]
+4514 - Rilakkuma Rhythm - Mattari Kibun de Dararan Ran [b] [02990441] High Road
 00004200: 70 47 8F F9 11 31 D7 64 CB 9A CE 06 67 57 88 09 → 1C 00 9F E5 00 10 90 E5 18 20 9F E5 02 00 51 E1
 00004210: 05 F7 F6 2D FE 00 0E 9E 5A 36 BB 34 12 11 2F B4 → 72 10 A0 03 08 10 C0 05 8E 10 A0 03 C4 10 C0 05
 00004220: 06 D4 41 2D 92 8E 3C 77 62 37 47 63 → 1E FF 2F E1 E0 9B 07 02 34 5D 09 E0
 00004A18: 1E FF 2F E1 → F8 FD FF EA
 
-4516 - Carl Jii-San no Soratobu Ie [4A048007]
+4516 - Carl Jiisan no Sora Tobu Ie [4A048007] Caravan
 00DFD269: 0C → 37
 
-4518 - Power Pro-Kun Pocket 12 [ED1EA11E]
+4518 - Power Pro Kun Pocket 12 (DSi Enhanced) [b] [ED1EA11E] Caravan
 0039659A: 0C → 36
 003966F5: 10 → 11
 
-4536 - Kamonohashi Kamo: Aimai Seikatsu no Susume [89A43C30]
+4536 - Kamonohashi Kamo - Aimai Seikatsu no Susume [b] [89A43C30] Caravan
 00004200: 2D AA 16 22 05 F1 8B 5F 9F 5E C5 F8 1E AF 70 F4 → 34 20 9F E5 28 00 9F E5 00 10 90 E5 02 00 51 E1
 00004210: 5B 4B 00 2D E1 49 91 BC E3 C3 B4 F8 72 B2 0F D7 → 02 00 00 0A 1C 00 9F E5 00 10 90 E5 02 00 51 E1
 00004220: 4C 66 D1 E6 28 86 41 21 3C F3 47 2E 3F 6E 0A 93 → 72 10 A0 03 08 10 C0 05 8E 10 A0 03 C4 10 C0 05
 00004230: 51 D2 D4 3A DD 96 0C 84 A4 9A 09 DF 08 1C 70 47 → 1E FF 2F E1 C0 88 14 02 98 11 15 02 34 5D 09 E0
 00004A18: 1E FF 2F E1 → F8 FD FF EA
 
-4550 - Kuru Kuru * Princess: Tokimeki Figure * Mezase! Vancouver [A33CF389]
+4550 - KuruKuru Princess - Tokimeki Figure - Mezase! Vancouver [b] [A33CF389] Caravan
 000FF98D: 0C → 36
 000FFAEA: 10 → 11
 
-4551 - Gokujou!! Mecha Mote Iinchou: MM Town de Miracle Change [10A9C7D2]
+4551 - Gokujou!! Mecha Mote Iinchou - MM Town de Miracle Change! [b] [10A9C7D2] Caravan
 00004200: C5 75 6C 8D C6 AC 6F 98 B9 E1 D8 6C B5 52 10 C0 → 1C 00 9F E5 00 10 90 E5 18 20 9F E5 02 00 51 E1
 00004210: E1 E2 0F 5F F2 D0 56 31 C9 73 69 4D CD 9D DE 4C → 72 10 A0 03 08 10 C0 05 8E 10 A0 03 C4 10 C0 05
 00004220: 70 A0 57 06 12 4E BC A1 2B 27 D5 E7 → 1E FF 2F E1 80 95 11 02 34 5D 09 E0
 00004A18: 1E FF 2F E1 → F8 FD FF EA
 
-4554 - Metal Fight Beyblade: Bakutan Cyber Pegasis [3BA6D93B]
+4554 - Metal Fight Beyblade - Bakutan! Cyber Pegasis [b] [3BA6D93B] Independent
 00004210: 7D C7 AA FF 54 88 B8 72 60 3F 31 C6 DB 35 7B C1 → 1C 00 9F E5 00 10 90 E5 18 20 9F E5 02 00 51 E1
 00004220: 6B 77 51 64 1C DA 18 F3 21 A4 70 0A A9 42 7D 62 → 72 10 A0 03 08 10 C0 05 8E 10 A0 03 C4 10 C0 05
 00004230: 91 58 5A E0 82 49 65 4B 82 F5 EF 98 → 1E FF 2F E1 00 46 28 02 34 5D 09 E0
 000049F8: 1E FF 2F E1 → 04 FE FF EA
 
-4561 - Kyokugen Dasshutsu 9-Jikan 9-Nin 9 no Tobira [51550884]
+4561 - Kyokugen Dasshutsu - 9-jikan, 9-nin, 9 no Tobira [b] [51550884] 2CH
 0006D798: 0C → 37
 0006D8F3: 10 → 11
 
-4579 - Pen 1 Grand Prix: Penguin no Mondai Special [BA34873A]
+4579 - Pen1 Grand Prix - Penguin no Mondai Special [b] [BA34873A] BAHAMUT
 00004200: FF 81 B9 0F 28 39 A4 01 30 CB 5F 4E A9 B8 BD 2F → 1C 00 9F E5 00 10 90 E5 18 20 9F E5 02 00 51 E1
 00004210: 15 9F 5E D2 3E FD 1C 89 B6 FA 48 19 10 2E 6E E2 → 72 10 A0 03 08 10 C0 05 8E 10 A0 03 C4 10 C0 05
 00004220: A4 F3 12 51 68 DB 25 E2 8B 6C 0E E2 → 1E FF 2F E1 20 E6 24 02 34 5D 09 E0
 00004A18: 1E FF 2F E1 → F8 FD FF EA
 
-4588 - Mini Yonku DS [24B768FA]
+4588 - Mini Yonku DS [b] [24B768FA] BAHAMUT
 00004300: 0E A1 8E BA 1D 50 DA 35 28 B6 30 32 9C 17 E6 14 → 1C 00 9F E5 00 10 90 E5 18 20 9F E5 02 00 51 E1
 00004310: FA CE 06 23 05 92 99 E2 C5 28 45 44 07 D9 E0 CD → 72 10 A0 03 08 10 C0 05 8E 10 A0 03 C4 10 C0 05
 00004320: AC B5 38 A2 96 3C 58 4A E9 4B 3E AF → 1E FF 2F E1 E0 B4 12 02 34 5D 09 E0
 00004A18: 1E FF 2F E1 → 38 FE FF EA
 
-4590 - Lina no Atelier: Strahl no Renkinjutsushi [83E38CC4]
+4590 - Lina no Atelier - Strahl no Renkinjutsushi [83E38CC4] 2CH
 00004300: 90 40 1A 62 FC 9F 00 72 27 89 C0 E7 4C B5 51 95 → 1C 00 9F E5 00 10 90 E5 18 20 9F E5 02 00 51 E1
 00004310: BE EA CE 1C CC 2F 06 DF 70 47 DB 4D 90 C7 3B CF → 72 10 A0 03 08 10 C0 05 8E 10 A0 03 C4 10 C0 05
 00004320: 26 62 3C E2 D3 8D 6F 49 DC ED 19 E3 → 1E FF 2F E1 C0 93 15 02 34 5D 09 E0
 00004A18: 1E FF 2F E1 → 38 FE FF EA
 
-4594 - Zelda no Densetsu: Daichi no Kiteki [110A0F50]
+4594 - Zelda no Densetsu - Daichi no Kiteki [b] [110A0F50] 2CH
 00004300: 39 61 14 DF 70 47 66 1A A5 03 43 10 98 9A 06 9D → 1C 00 9F E5 00 10 90 E5 18 20 9F E5 02 00 51 E1
 00004310: BA D5 12 63 E1 33 B4 6D 02 A4 B1 E5 0E 7D 08 9E → 9E 10 A0 03 08 10 C0 05 AD 10 A0 03 C4 10 C0 05
 00004320: BC 2F FF BE D0 BA 59 F2 11 97 7D 3D → 1E FF 2F E1 F8 22 0C 02 00 D7 09 E0
 000049F8: 1E FF 2F E1 → 40 FE FF EA
 
-4604 - Post Pet DS: Yume Miru Momo to Fushigi no Pen [EF9A48DA]
+4604 - PostPet DS - Yumemiru Momo to Fushigi no Pen [b] [EF9A48DA] Caravan
 00004300: 6D 96 1E 3E 65 00 D6 27 6C 3F 42 A0 7F 6C CA 8F → 1C 00 9F E5 00 10 90 E5 18 20 9F E5 02 00 51 E1
 00004310: 64 7D 54 5E DB 0D 16 E4 40 3F A2 BD 3F 13 E9 63 → 72 10 A0 03 08 10 C0 05 8E 10 A0 03 C4 10 C0 05
 00004320: 1D DC 4A 5D AE B0 0C E2 5C 87 9B A0 → 1E FF 2F E1 E0 0F 0D 02 34 5D 09 E0
 000049F8: 1E FF 2F E1 → 40 FE FF EA
 
-4611 - Dear Girl: Stories Hibiki - Hibiki Tokkun Daisakusen! [4DD5CC05]
+4611 - Dear Girl - Stories - Hibiki - Hibiki Tokkun Daisakusen! [4DD5CC05] 2CH
 00004300: 00 85 33 9A 8D 0E 2B EC 29 E8 A1 23 47 4C 98 BD → 1C 00 9F E5 00 10 90 E5 18 20 9F E5 02 00 51 E1
 00004310: 36 91 30 BB 49 B3 3F B5 77 F7 E9 41 2D 89 0A 6F → 72 10 A0 03 08 10 C0 05 8E 10 A0 03 C4 10 C0 05
 00004320: D4 B7 CF 73 EC FB 47 4C DE D5 D1 8A → 1E FF 2F E1 60 83 10 02 34 5D 09 E0
 00004A18: 1E FF 2F E1 → 38 FE FF EA
 
-4617 - Deca Sporta: DS de Sports 10 Shumoku! [63CEA351]
+4617 - Deca Sporta - DS de Sports '10' Shumoku! [63CEA351] 2CH
 00004300: 3C 04 02 F3 71 7B B8 FA 0B AB 58 AF F2 2E 49 27 → 1C 00 9F E5 00 10 90 E5 18 20 9F E5 02 00 51 E1
 00004310: 62 90 5D 4A 1D 0D D1 06 FA 3E AF 47 C7 B3 14 CF → 72 10 A0 03 08 10 C0 05 8E 10 A0 03 C4 10 C0 05
 00004320: 52 00 F9 63 80 98 0E 42 40 D0 86 D6 → 1E FF 2F E1 00 AC 07 02 34 5D 09 E0
 00004A18: 1E FF 2F E1 → 38 FE FF EA
 
-4654 - Last Window: Mayonaka no Yakusoku [0C4EBCF0]
+4654 - Last Window - Mayonaka no Yakusoku [b] [0C4EBCF0] STORM
 00004300: 20 D5 94 20 62 C8 80 8A E9 D6 B0 12 FB C1 6C F3 → 14 00 9F E5 36 10 A0 E3 00 10 C0 E5 11 10 A0 E3
 00004310: AB 52 26 31 6D C3 9B BA 28 B5 94 46 A6 B4 46 47 → 8C 11 C0 E5 04 10 9F E5 11 FF 2F E1 00 AE 07 02
 00004320: 45 76 DE 52 → 04 0C 00 02
 0000494C: 04 0C 00 02 → 00 03 00 02
 
-4662 - Saihinshutsu! SPI Perfect Mondaishuu DS 2011 Nendoban [E3BE2CE8]
+4662 - Takahashi Shoten Kanshuu - Saihinshutsu! SPI Perfect Mondaishuu DS - 2011 Nendo Ban [E3BE2CE8] BAHAMUT
 0000033C: ED 0D 06 4F AC 76 85 41 33 5C 28 1B 8B 64 05 06 → 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
 0000034C: 5A 9D C4 48 → 00 00 00 00
 00000378: 97 D4 98 7F 47 3C FB DB 73 62 F2 A6 EF 63 85 5D → 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
@@ -335,7 +335,7 @@
 00000FED: CB 40 4C CC 0C 79 A7 35 B2 41 7D 77 FF DB 51 19 → 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
 00000FFD: CA EA B6 → 00 00 00
 
-4664 - Katekyoo Hitman Reborn! DS Ore ga Bosu! Saikyou Family Taisen [F0AD9645]
+4664 - Katekyoo Hitman Reborn! DS - Ore ga Boss! - Saikyou Family Taisen (DSi Enhanced) [b] [F0AD9645] 2CH
 00000180: 81 85 89 8D 80 84 88 8C 90 94 98 9C 80 84 88 8C → 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
 00000190: 90 94 98 9C 00 00 00 00 40 37 C0 07 00 37 40 07 → 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
 000001A0: 00 30 40 00 40 37 C0 07 00 37 40 07 0F 00 00 03 → 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
@@ -390,33 +390,33 @@
 00258BB0: 00 10 A0 E3 C7 FE FF EB 00 00 94 E5 00 00 50 E3 → F6 FF FF 1A F8 47 BD E8 1E FF 2F E1 10 00 10 04
 00258BC0: 18 00 9F 05 10 00 90 05 00 00 50 03 01 00 A0 03 → A4 01 00 04 00 60 58 A1 00 00 50 03 01 00 A0 03
 
-4680 - Dragon Quest VI: Maboroshi no Daichi [83691430]
+4680 - Dragon Quest VI - Maboroshi no Daichi [83691430] STORMAN?
 000E3CD2: 0C → 36
 000E3E31: 10 → 11
 
-4692 - Shin Sengoku Tenkatouitsu: Gunyuu Tachi no Souran [15BC916A]
+4692 - Shin Sengoku Tenka Touitsu - Gunyuutachi no Souran [15BC916A] BAHAMUT
 0015C288: 73 → 72
 0015C344: 8F → 8E
 
-4704 - Minna no Conveni [D82085D4]
+4704 - Minna no Conveni [D82085D4] BAHAMUT
 00004300: 9F AD 1B CC C9 72 FF AA A1 FD D6 0F 63 37 4B 5A → 1C 00 9F E5 00 10 90 E5 18 20 9F E5 02 00 51 E1
 00004310: F4 01 F6 6F 09 DF 08 1C 70 47 84 C6 D4 8C C6 88 → 72 10 A0 03 08 10 C0 05 8E 10 A0 03 C4 10 C0 05
 00004320: CF 9C EC E9 39 79 D7 1C 01 FE E0 7A → 1E FF 2F E1 38 B5 0F 02 34 5D 09 E0
 00004A18: 1E FF 2F E1 → 38 FE FF EA
 
-4706 - Lupin Sansei: Shijou Saidai no Zunousen [CE0234AD]
+4706 - Lupin Sansei - Shijou Saidai no Zunousen [b] [CE0234AD] MHS
 00004300: 08 7B 3A C7 83 EA 66 31 C0 56 00 5C 1D 5A 9F C9 → 1C 00 9F E5 00 10 90 E5 18 20 9F E5 02 00 51 E1
 00004310: DF 62 E4 0A 56 D7 BE 85 EE 08 45 51 D9 C0 96 25 → 72 10 A0 03 08 10 C0 05 8E 10 A0 03 C4 10 C0 05
 00004320: 90 DF 5E 3A 27 53 0C B2 22 05 36 57 → 1E FF 2F E1 C0 79 13 02 34 5D 09 E0
 00004A18: 1E FF 2F E1 → 38 FE FF EA
 
-4707 - Quiz Magic Academy DS ~Futatsu no Jikuseki~ [6AA8596B]
+4707 - Quiz Magic Academy DS ~Futatsu no Jikuseki~ [6AA8596B] ???
 00004310: 97 19 2B 55 CE FC 5C A7 AC 4B B6 F5 87 B3 11 05 → 1C 00 9F E5 00 10 90 E5 18 20 9F E5 02 00 51 E1
 00004320: 20 70 7B 19 D5 68 0D B8 50 71 F3 F7 80 6D 32 BF → 72 10 A0 03 08 10 C0 05 8E 10 A0 03 C4 10 C0 05
 00004330: 07 DC 7D E6 24 98 F2 9D 8F E4 CC D6 → 1E FF 2F E1 E0 18 1B 02 34 5D 09 E0
 00004A18: 1E FF 2F E1 → 3C FE FF EA
 
-4707 - Quiz Magic Academy DS ~Futatsu no Jikuseki~ [46F79BC0]
+4707 - Quiz Magic Academy DS - Futatsu no Jikuuseki [46F79BC0] BAHAMUT
 00004310: 97 19 2B 55 CE FC 5C A7 AC 4B B6 F5 87 B3 11 05 → 1C 00 9F E5 00 10 90 E5 18 20 9F E5 02 00 51 E1
 00004320: 20 70 7B 19 D5 68 0D B8 50 71 F3 F7 80 6D 32 BF → 72 10 A0 03 08 10 C0 05 8E 10 A0 03 C4 10 C0 05
 00004330: 07 DC 7D E6 24 98 F2 9D 8F E4 CC D6 → 1E FF 2F E1 E0 18 1B 02 34 5D 09 E0

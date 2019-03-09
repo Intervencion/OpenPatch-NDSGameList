@@ -37,3 +37,10 @@ I'm not going to change CRC on Bad dumps unless I can't find info about the dump
 Patch won't work on either. Offset/Hex doesn't match the patch.
 
 Rudolph's patch from the AP database should work with both however. Listed on Untested's GameList.
+
+***
+
+4707 - Quiz Magic Academy DS ~Futatsu no Jikuseki~ [6AA8596B]
+
+I don't find any info about this dump. Only [4707 - Quiz Magic Academy DS ~Futatsu no Jikuseki~ [BAHAMUT] [46F79BC0]](http://www.advanscene.com/html/Releases/dbrelds.php?id=4821)
+

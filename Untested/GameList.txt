@@ -79,3 +79,7 @@ Pokemon - Black Version (USA, Europe) (NDSi Enhanced) [No-Intro] [4F6E5580]
 4187 - Idolmaster - Dearly Stars, The (DSi Enhanced) [CF9CF0E7] PUSSYCAT
 00089F85: 0C → 37
 0008A0DD: 7A → 7B
+
+4353 - Hikari no 4 Senshi: Final Fantasy Gaiden [EF9413A4]
+00077598: 0C → 36
+000776F3: 10 → 11
