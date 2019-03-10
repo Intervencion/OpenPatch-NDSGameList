@@ -67,3 +67,32 @@ Can't find info about this dump. Only [BAHAMUT [F4DCA07C]](http://www.advanscene
 Can't find info about this dump. Only [BAHAMUT [7673037D]](http://www.advanscene.com/html/Releases/dbrelds.php?id=4965)
 
 ***
+
+5016 - Toy Story 3 (DSi Enhanced) [b] [36C869D4]
+
+I can't find this. Only [Toy Story 3 (DSi Enhanced) RFTD [B7F17C60]](http://www.advanscene.com/html/Releases/dbdswrel.php?id=5134) and [Toy Story 3 (DSi Enhanced)(Encrypted) RFTD [57342B45]](http://www.advanscene.com/html/Releases/dbrelds.php?id=5134).
+
+***
+
+5073 - Bokujou Monogatari - Futago no Mura [b] [7EAB7D79] ???
+
+Can't find. [BAHAMUT [B0D2D6F4]](http://www.advanscene.com/html/Releases/dbrelds.php?id=5193)
+
+***
+
+5291 - The Sims 3 [b] [73CB88D4] ???
+
+I can't find the dump info. Either [RFTD [98716DFD]](http://www.advanscene.com/html/Releases/dbrelds.php?id=5447) or [RFTD [FCBFA6E2]](http://www.advanscene.com/html/Releases/dbdswrel.php?id=5447).
+
+***
+
+5364 - Tron [F44F637C] ???
+
+No info about this dump. [RFTD [9D94AFCD]](http://www.advanscene.com/html/Releases/dbdswrel.php?id=5538) & [RFTD [926DCD22]](http://www.advanscene.com/html/Releases/dbrelds.php?id=5538)
+
+
+***
+
+5396 - Phineas and Ferb Ride Again [b] [43874F82] ???
+
+No info I can find. [RFTD [BCC558C2]](http://www.advanscene.com/html/Releases/dbrelds.php?id=5578) & [RFTD [19652A7B]](http://www.advanscene.com/html/Releases/dbdswrel.php?id=5578)
