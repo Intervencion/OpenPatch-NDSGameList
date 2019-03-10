@@ -86,7 +86,7 @@ I can't find the dump info. Either [RFTD [98716DFD]](http://www.advanscene.com/h
 
 ***
 
-5364 - Tron [F44F637C] ???
+5364 - Tron [b] [F44F637C] ???
 
 No info about this dump. [RFTD [9D94AFCD]](http://www.advanscene.com/html/Releases/dbdswrel.php?id=5538) & [RFTD [926DCD22]](http://www.advanscene.com/html/Releases/dbrelds.php?id=5538)
 
