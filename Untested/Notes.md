@@ -62,6 +62,12 @@ Can't find info about this dump. Only [BAHAMUT [F4DCA07C]](http://www.advanscene
 
 ***
 
+4798 - Alice in Wonderland (DSi Enhanced) [b] [DA04EEA3] ???
+
+No info found about this dump. Only [RFTD Encrypted [B3D03A91]](http://www.advanscene.com/html/Releases/dbrelds.php?id=4914) & [RFTD Fixed [FE1C5D3C]](http://www.advanscene.com/html/Releases/dbdswrel.php?id=4914).
+
+***
+
 4851 - Sekaiju no Meikyuu III: Seikai no Raihousha [F839726B]
 
 Can't find info about this dump. Only [BAHAMUT [7673037D]](http://www.advanscene.com/html/Releases/dbrelds.php?id=4965)
@@ -96,3 +102,9 @@ No info about this dump. [RFTD [9D94AFCD]](http://www.advanscene.com/html/Releas
 5396 - Phineas and Ferb Ride Again [b] [43874F82] ???
 
 No info I can find. [RFTD [BCC558C2]](http://www.advanscene.com/html/Releases/dbrelds.php?id=5578) & [RFTD [19652A7B]](http://www.advanscene.com/html/Releases/dbdswrel.php?id=5578)
+
+***
+
+XXXX - Chronicles of Mystery - Curse of the Ancient Temple (???) [b] [67F666AB] ???
+
+No clue about this dump. Due it lacks Numbering I can't find "proper" dumps.
