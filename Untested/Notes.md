@@ -108,3 +108,9 @@ No info I can find. [RFTD [BCC558C2]](http://www.advanscene.com/html/Releases/db
 XXXX - Chronicles of Mystery - Curse of the Ancient Temple (???) [b] [67F666AB] ???
 
 No clue about this dump. Due it lacks Numbering I can't find "proper" dumps.
+
+***
+
+6596 - Pokemon - Edicion Blanca 2 (Spain) (NDSi Enhanced) [EA70C572] PUSSYCAT & 6597 - Pokemon - Edicion Negra 2 (Spain) (NDSi Enhanced) [06CE7DD3] PUSSYCAT, both from PUSSYCAT
+
+Patch is done using the USA/EUR version as base. Untested (duh).
